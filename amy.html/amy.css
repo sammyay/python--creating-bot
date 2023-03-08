@@ -1,0 +1,24 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove{
+    from {left: 0;}
+    to {left: 500px;}
+    
+}
+body{
+    background-color: aquamarine;
+    
+}
+
+
+
+
+
+
+
+p{
+    color: blue;
+}
